@@ -15,3 +15,10 @@ Additional technologies to be targeted are the RAZOR / BLAZOR frameworks
 ## Update 30/05/2024
 
 Project is reactivated as a local project
+
+## Update 10/01/2025
+
+Project reactivated with the following changes
+
+1. Adobe products replaced by open source equivalents (see below for full list)
+2. Microsoft DotNet Core updated to v9
